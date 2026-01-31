@@ -28,9 +28,9 @@ This project implements an advanced transformer-based language model specificall
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/advanced-chess-transformer.git
-   cd advanced-chess-transformer
+   ```bash
+   git clone https://github.com/jmrothberg/Brain6.git
+   cd Brain6
    ```
 
 2. Install the required packages:
@@ -102,9 +102,13 @@ Users can customize various aspects including:
 
 Contributions to improve the model or extend its capabilities are welcome. Please submit pull requests or open issues for any bugs or feature requests.
 
+## Author
+
+**Jonathan M. Rothberg** - [@jmrothberg](https://github.com/jmrothberg)
+
 ## License
 
-[Specify your license here]
+MIT License
 
 ## Acknowledgments
 
